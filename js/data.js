@@ -23,7 +23,7 @@ const gearbox = createMachine(
     "Gearbox",
     "Power Transmission",
     "Running",
-    20000,
+    40000,
     50000
 );
 
